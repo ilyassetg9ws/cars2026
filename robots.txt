@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Passion Auto - Voitures de Luxe</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Passion Auto</h1>
+    <nav>
+      <a href="#accueil">Accueil</a>
+      <a href="#marques">Marques</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="accueil" class="hero">
+    <h2>Galerie de Voitures de Luxe</h2>
+    <p>Une sélection exclusive : Mercedes, BMW, Audi et 10 autres superbes marques sportives.</p>
+  </section>
+
+  <section id="marques">
+    <h2>Nos Marques</h2>
+    <div class="cars" id="carsContainer"></div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact</h2>
+    <p>Pour toute question, contacte-nous via email : 
+      <a href="mailto:ton.email@exemple.com">ilyassetg@gmail.com</a>
+    </p>
+  </section>
+
+  <footer>
+    © 2025 Passion Auto — ilyass amezyane.
+  </footer>
+
+  <div id="popup" class="popup">
+    <div class="popup-content">
+      <span id="closePopup">&times;</span>
+      <img id="popupImage" src="" alt="">
+      <h3 id="popupTitle"></h3>
+      <p id="popupDesc"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

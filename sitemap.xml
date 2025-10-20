@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://cars2026.netlify.app/</loc>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://cars2026.netlify.app/page1.html</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://cars2026.netlify.app/page2.html</loc>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://cars2026.netlify.app/page3.html</loc>
+      <priority>0.8</priority>
+   </url>
+</urlset>
